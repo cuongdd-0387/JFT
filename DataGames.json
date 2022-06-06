@@ -1,6 +1,6 @@
 {
   "data": [
-    {"name":"Game A", "sceneName": "GameA"},
-    {"name":"Game B", "sceneName": "GameB"}
+    {"name":"Game A", "sceneName": "GameA", "catalog":"catalog_2022.06.03.07.52.18"},
+    {"name":"Game B", "sceneName": "GameB", "catalog":"catalog_2022.06.03.07.52.18"}
   ]
 }
