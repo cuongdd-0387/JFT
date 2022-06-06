@@ -1,6 +1,6 @@
 {
   "data": [
-    {"name":"Game A", "sceneName": "GameA", "catalogData":"https://daodinhcuong.000webhostapp.com/ServerData/Android/catalog_2022.06.03.07.52.18.json"},
-    {"name":"Game B", "sceneName": "GameB", "catalogData":"https://daodinhcuong.000webhostapp.com/ServerData/Android/catalog_2022.06.03.07.52.18.json"}
+    {"name":"Game A", "sceneName": "GameA", "catalogData":"https://daodinhcuong.000webhostapp.com/ServerData/StandaloneWindows64/catalog_2022.06.03.07.52.18.json"},
+    {"name":"Game B", "sceneName": "GameB", "catalogData":"https://daodinhcuong.000webhostapp.com/ServerData/StandaloneWindows64/catalog_2022.06.03.07.52.18.json"}
   ]
 }
